@@ -1,0 +1,8 @@
+123 Main St to 456 Elm St = 3 miles
+123 Main St to 789 Oak St = 2 miles
+123 Main St to 159 Pine St = 1 mile
+456 Elm St to 789 Oak St = 1 mile
+456 Elm St to 159 Pine St = 2 miles
+789 Oak St to 159 Pine St = 1 mile
+789 Oak St to 753 Cedar St = 4 miles
+159 Pine St to 753 Cedar St = 3 miles
